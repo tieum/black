@@ -41,6 +41,8 @@
 ### Integrations
 
 <!-- For example, Docker, GitHub Actions, pre-commit, editors -->
+- Update GitHub Action to display black output in the job summary
+
 
 ### Documentation
 
